@@ -19,8 +19,9 @@ You can test the classifier on Hugging Face Spaces:
 ## 🛠 Installation  
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/food_not_food_text_classifier.git
+git clone https://github.com/ahmed-mohamed-77/text-classification.git
 cd food_not_food_text_classifier
+https://github.com/ahmed-mohamed-77/text-classification.git
 
 # Create a virtual environment (optional)
 python -m venv env
